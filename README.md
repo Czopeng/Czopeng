@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Alex and study electrical engineering and information technology at the Karlsruhe Institute for Technology.
 <!--
 **Czopeng/Czopeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
